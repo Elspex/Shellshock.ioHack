@@ -20,7 +20,7 @@ and decided i would try to fix it. It worked! I hope you enjoy Crackware V5.1.1
 
 ## 🔨 Installation
 
-1. `CTRL+C` the code in script.md
+1. `CTRL+C` the code in script.txt
 2. Download [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 3. Go to Tampermonkey dashboard
 4. Click on the + button on the top bar.
