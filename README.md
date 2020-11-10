@@ -1,4 +1,4 @@
-![alt text](https://imgur.com/a/FYfM4rI)
+![alt text](https://i.imgur.com/72fffMQ.png)
 
 # Welcome to Shellshock Crackware!
 
