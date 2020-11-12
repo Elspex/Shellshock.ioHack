@@ -26,7 +26,7 @@ and decided i would try to fix it. It worked! I hope you enjoy Crackware V5.1.1
 1. Download this repo as a ZIP file.
 2. Extract the ZIP file you just downloaded.
 3. Go to chrome://extensions in your browser. Make sure you have Developer Mode activated.
-4. Click "Load Unpacked" and select the folder that you extracted (called shellshock.iohack-master)
+4. Click "Load Unpacked" and select the folder that you extracted (called hackV5.1.1)
 5. Open [shellshock.io](https://shellshock.io)
 
 ## 🤔 FAQ
