@@ -5,6 +5,9 @@
 This is a Shellshock.io cheat loaded in tampermonkey. This cheat was originally created by TDStuart but was then patched. After it got patched i took it to myself
 and decided i would try to fix it. It worked! I hope you enjoy Crackware V5.1.1
 
+# UPDATE
+## Hack is no longer tampermonkey. It's now a chrome extention.
+
 # You can view the raw code to the hack [here:](https://dl.dropboxusercontent.com/s/wjuz0lovxa00an3/5shellshock.min.js0)
 
 ### 💪 Features
@@ -20,13 +23,11 @@ and decided i would try to fix it. It worked! I hope you enjoy Crackware V5.1.1
 
 ## 🔨 Installation
 
-1. `CTRL+C` the code in script.txt
-2. Download [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
-3. Go to Tampermonkey dashboard
-4. Click on the + button on the top bar.
-5. Paste the code.
-6. Click on "File" in top left and then save in the dropdown menu.
-7. Open [Shellshock.io](https://shellshock.io)
+1. Download this repo as a ZIP file.
+2. Extract the ZIP file you just downloaded.
+3. Go to chrome://extensions in your browser. Make sure you have Developer Mode activated.
+4. Click "Load Unpacked" and select the folder that you extracted (called shellshock.iohack-master)
+5. Open [shellshock.io](https://shellshock.io)
 
 ## 🤔 FAQ
 
