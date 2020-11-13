@@ -5,9 +5,6 @@
 This is a Shellshock.io cheat loaded in tampermonkey. This cheat was originally created by TDStuart but was then patched. After it got patched i took it to myself
 and decided i would try to fix it. It worked! I hope you enjoy Crackware V5.1.1
 
-# UPDATE
-## Hack is no longer tampermonkey. It's now a chrome extention.
-## NEW UPDATE 2: HACK IS NOW TAMPERMONKEY AGAIN.
 # You can view the raw code to the hack [here:](https://dl.dropboxusercontent.com/s/wjuz0lovxa00an3/5shellshock.min.js0)
 
 ### 💪 Features
