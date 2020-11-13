@@ -7,7 +7,7 @@ and decided i would try to fix it. It worked! I hope you enjoy Crackware V5.1.1
 
 # UPDATE
 ## Hack is no longer tampermonkey. It's now a chrome extention.
-
+## NEW UPDATE 2: HACK IS NOW TAMPERMONKEY AGAIN.
 # You can view the raw code to the hack [here:](https://dl.dropboxusercontent.com/s/wjuz0lovxa00an3/5shellshock.min.js0)
 
 ### 💪 Features
@@ -24,9 +24,9 @@ and decided i would try to fix it. It worked! I hope you enjoy Crackware V5.1.1
 ## 🔨 Installation
 
 1. Download this repo as a ZIP file.
-2. Extract the ZIP file you just downloaded.
-3. Go to chrome://extensions in your browser. Make sure you have Developer Mode activated.
-4. Click "Load Unpacked" and select the folder that you extracted (called hackV5.1.1)
+2. Extract the ZIP file you just downloaded, copy-paste the code in the `hackv5.1.1. script`
+3. Download Tampermonkey
+4. Make a new tampermonkey script and paste the code.
 5. Open [shellshock.io](https://shellshock.io)
 
 ## 🤔 FAQ
