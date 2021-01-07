@@ -31,7 +31,7 @@ and decided i would try to fix it. It worked! I hope you enjoy Crackware V5.1.1
 
 > **What do I do if the cheat stops working?**
 
-Message [FRST] Elspex#0001 on Discord if the game is updated. Wait until a new commit is pushed.
+Message Mowu#1167 on Discord if the game is updated. Wait until a new commit is pushed.
 
 > **This feature isn't working for me!**
 
